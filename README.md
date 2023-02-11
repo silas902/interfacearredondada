@@ -3,7 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
+
 ![Imagem do WhatsApp de 2023-02-11 à(s) 14 37 22](https://user-images.githubusercontent.com/80179457/218272893-da4c59bb-d67b-4047-8511-52cda36dc4b2.jpg)
+
+<div align-"center">
+<img src="https://user-images.githubusercontent.com/80179457/218272893-da4c59bb-d67b-4047-8511-52cda36dc4b2.jpg" width="700px" />
+
 This project is a starting point for a Flutter application.
 
 
