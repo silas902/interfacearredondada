@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80179457/218272893-da4c59bb-d67b-4047-8511-52cda36dc4b2.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/80179457/218272893-da4c59bb-d67b-4047-8511-52cda36dc4b2.jpg" width="150px" />
 </div>
 
 This project is a starting point for a Flutter application.
